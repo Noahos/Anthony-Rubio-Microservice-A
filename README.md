@@ -82,7 +82,8 @@ my_grade = my_socket.recv()
 print(f"Grade Received : {my_grade.decode()}")
 ```
 
-The graded quiz data is now available in your main program.
+If the process executes seamlessly, 
+The graded quiz data will now available in your main program.
 
 ---
 
