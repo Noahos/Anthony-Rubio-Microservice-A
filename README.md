@@ -93,6 +93,7 @@ The graded quiz data will now available in your main program.
 ## 3. UML Sequence Diagram
 
 Below is a **UML sequence diagram** showing the request and response process.  
+The file Anthony_Main_Program.py represents the Flash Card Quiz Program, and the file Anthony_MicroserviceA.py represents the Quiz Grading program.
 
 <img width="581" height="398" alt="image" src="https://github.com/user-attachments/assets/15fbe3b9-b584-4147-9ab3-a220602c45b8" />
 
