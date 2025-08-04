@@ -86,7 +86,8 @@ The graded quiz data is now available in your main program.
 
 Below is a **UML sequence diagram** showing the request and response process.  
 
-<img width="1128" height="743" alt="Screenshot 2025-08-03 194912" src="https://github.com/user-attachments/assets/1db0c978-94af-4c89-a54c-8564d74a6860" />
+<img width="581" height="398" alt="image" src="https://github.com/user-attachments/assets/15fbe3b9-b584-4147-9ab3-a220602c45b8" />
+
 
 
 
