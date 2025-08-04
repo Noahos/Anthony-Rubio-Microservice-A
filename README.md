@@ -7,6 +7,10 @@ The following is an example of how to call the microservice.
 In this example, the program prompts the user to enter integers to define variables.  
 In the actual main program, quiz data will likely be preloaded, and the program will call a function that activates the microservice directly.
 
+Environment:
+- install **zeromq** in python
+- import zmq
+  
 Run both:
 - The **microservice** file  
 - Your **main program** on your local system  
