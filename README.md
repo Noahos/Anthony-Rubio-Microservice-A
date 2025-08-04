@@ -85,6 +85,9 @@ print(f"Grade Received : {my_grade.decode()}")
 If the process executes seamlessly, 
 The graded quiz data will now available in your main program.
 
+- Example Output: "Grade Received : Your current score is 17 / 20. Which is 85.0%. You got a grade of B. Your last score was 90.0%. Your last grade was A."
+- or if there is no previous quiz data: "Grade Received : Your current score is 18 / 20. Which is 90.0%. You got a grade of A."
+
 ---
 
 ## 3. UML Sequence Diagram
