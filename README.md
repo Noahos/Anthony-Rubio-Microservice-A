@@ -1,7 +1,7 @@
 # Anthony-Rubio-Microservice-A
 A microservice for Anthony Rubio's flashcard program, that takes in quiz data, and returns results, letter grade, and comparison to the last quiz results.
 
-# 1. Clear instructions for how to programmatically **REQUEST** data from the microservice with an example call
+## 1. Clear instructions for how to programmatically **REQUEST** data from the microservice with an example call
 
 The following is an example of how to call the microservice.  
 In this example, the program prompts the user to enter integers to define variables.  
@@ -71,7 +71,7 @@ my_socket.send_string(str_correct)
 
 ---
 
-# 2. Clear instructions for how to programmatically **RECEIVE** data from the microservice with an example call
+## 2. Clear instructions for how to programmatically **RECEIVE** data from the microservice with an example call
 
 Once the second integer is sent to the microservice, it will send back the graded quiz data.
 
@@ -87,7 +87,7 @@ The graded quiz data will now available in your main program.
 
 ---
 
-# 3. UML Sequence Diagram
+## 3. UML Sequence Diagram
 
 Below is a **UML sequence diagram** showing the request and response process.  
 
